@@ -9,5 +9,5 @@ Repositório das aulas feitas na Semana JS Expert
 
 ### Using:
   <p>
-    <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="typescript" width="30" height="30"/>
   </p>
